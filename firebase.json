@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"arzaq-app","appId":"1:875820215128:android:aae044a7b92ade3703932d","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"arzaq-app","configurations":{"android":"1:875820215128:android:aae044a7b92ade3703932d","ios":"1:875820215128:ios:565717972decaa9c03932d"}}}}}}

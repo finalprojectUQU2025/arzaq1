@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875820215128",
+    "project_id": "arzaq-app",
+    "storage_bucket": "arzaq-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875820215128:android:aae044a7b92ade3703932d",
+        "android_client_info": {
+          "package_name": "com.arzaq.arzaq_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTnVzjavV8Gp_LC-74LtV0uG3Oga0ioMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
